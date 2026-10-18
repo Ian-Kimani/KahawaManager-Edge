@@ -263,45 +263,45 @@ sequenceDiagram
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="Kahawa_Manager_Edge_Screenshots/Screenshot%202026-09-13%20142854.png" alt="Home & Quick Start Dashboard" width="100%" />
+        <img src="Kahawa_Manager_Edge_Screenshots/Screenshot%202026-09-13%20142854.png" alt="Coffee Weighing Station" width="100%" />
         <br />
-        <em><strong>1. Home & Operator Onboarding:</strong> Factory overview, operational workflow guide, and security status.</em>
+        <em><strong>1. Coffee Weighing Station:</strong> Look up a farmer, read the live weight, check stability, preview the receipt, and save the delivery.</em>
       </td>
       <td align="center" width="50%">
-        <img src="Kahawa_Manager_Edge_Screenshots/Screenshot%202026-09-13%20142947.png" alt="Coffee Weighing Station" width="100%" />
+        <img src="Kahawa_Manager_Edge_Screenshots/Screenshot%202026-09-13%20142947.png" alt="Admin Functions and Hardware Management" width="100%" />
         <br />
-        <em><strong>2. Coffee Weighing Station:</strong> 10 Hz live weight telemetry, stability lock indicator, farmer lookup, and live receipt/SMS preview.</em>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <img src="Kahawa_Manager_Edge_Screenshots/Screenshot%202026-09-13%20143051.png" alt="Registered Farmers Directory" width="100%" />
-        <br />
-        <em><strong>3. Registered Farmers Registry:</strong> Paginated directory with dynamic JSONB custom columns, season totals, and Excel export.</em>
-      </td>
-      <td align="center" width="50%">
-        <img src="Kahawa_Manager_Edge_Screenshots/Screenshot%202026-09-13%20143105.png" alt="Admin, Hardware & Cloud Sync" width="100%" />
-        <br />
-        <em><strong>4. Admin, Hardware Auto-Detect & Cloud Sync:</strong> Peripheral status, Cloud vs. Edge health audit, and phone management.</em>
+        <em><strong>2. Admin and Hardware Management:</strong> Check the scale, SMS service, and printer, detect hardware, compare local and cloud data, and update farmer phone numbers.</em>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <img src="Kahawa_Manager_Edge_Screenshots/Screenshot%202026-09-13%20143156.png" alt="Bulk SMS & Failed SMS Manager" width="100%" />
+        <img src="Kahawa_Manager_Edge_Screenshots/Screenshot%202026-09-13%20143051.png" alt="Farmer Phone Updates and Bulk SMS" width="100%" />
         <br />
-        <em><strong>5. Bulk SMS & Retry Center:</strong> Targeted farmer messaging, quick templates, and failed SMS retry queue.</em>
+        <em><strong>3. Farmer Phone Updates and Bulk SMS:</strong> Find a farmer, change the phone number, choose who should receive a message, and use a ready-made message template.</em>
       </td>
       <td align="center" width="50%">
-        <img src="Kahawa_Manager_Edge_Screenshots/Screenshot%202026-09-13%20143213.png" alt="Delivery Reports & Analytics" width="100%" />
+        <img src="Kahawa_Manager_Edge_Screenshots/Screenshot%202026-09-13%20143105.png" alt="Bulk SMS and Failed SMS Manager" width="100%" />
         <br />
-        <em><strong>6. Delivery Reports & Analytics:</strong> Real-time harvest KPIs, day-of-week breakdown, and granular Excel exports.</em>
+        <em><strong>4. Bulk SMS and Failed SMS Manager:</strong> Preview recipients, send messages, open the SMS log, and retry messages that failed.</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="Kahawa_Manager_Edge_Screenshots/Screenshot%202026-09-13%20143156.png" alt="Delivery Reports and Analytics" width="100%" />
+        <br />
+        <em><strong>5. Delivery Reports and Analytics:</strong> View delivery totals, daily results, recent deliveries, failed SMS messages, and export reports.</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="Kahawa_Manager_Edge_Screenshots/Screenshot%202026-09-13%20143213.png" alt="Season Management" width="100%" />
+        <br />
+        <em><strong>6. Season Management:</strong> See the active season, review its totals, archive it, or start a new season.</em>
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <img src="Kahawa_Manager_Edge_Screenshots/Screenshot%202026-09-13%20143253.png" alt="System Alerts & Accessibility" width="50%" />
+        <img src="Kahawa_Manager_Edge_Screenshots/Screenshot%202026-09-13%20143253.png" alt="System Alerts and Monitoring" width="50%" />
         <br />
-        <em><strong>7. System Alerts, Consumables & Accessibility:</strong> Thermal paper tracking, live Africa's Talking KES balance, Cloud Sync status, font scaling, and audio controls.</em>
+        <em><strong>7. System Alerts and Monitoring:</strong> Track printer paper, SMS credits, cloud sync, font size, display mode, and sound settings.</em>
       </td>
     </tr>
   </table>
